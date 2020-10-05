@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0 8em;
+}
+h1 {
+  font-size: 3em;
+  text-align: center;
+}
+
+article h2 {
+  margin-bottom: 0;
+}
+
+section h3 {
+  margin-bottom: 0;
+  margin-top: 0.5em;
+}
+
+section h4 {
+  margin-top: 2px;
+  margin-bottom: 0px;
+  color: #777;
+}
+section p {
+  margin-top: 0.5em;
+}
+
+footer {
+  
+  display: flex;
+  justify-content: center;
+}
+
+footer a {
+  text-decoration: none;
+  color: black;
+  margin-left: 1em;
+}
+
+footer a:hover {
+  color: #777;
+}
+
